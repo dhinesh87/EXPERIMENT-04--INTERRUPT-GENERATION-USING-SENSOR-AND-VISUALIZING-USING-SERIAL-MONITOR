@@ -84,14 +84,14 @@ The diagram below shows how the GPIO pins are connected to the 16 interrupt line
 
 
 6.select the appropriate pins as gipo, in or out, USART or required options and configure 
+![Screenshot 2025-04-23 103921](https://github.com/user-attachments/assets/d249e52f-738e-489c-af27-5098f711750a)
 
-![Screenshot 2025-03-11 134617](https://github.com/user-attachments/assets/125ee548-30b1-4c88-932f-adf07984522f)
-![Screenshot 2025-03-11 134642](https://github.com/user-attachments/assets/0adfbb58-4cad-408a-9300-f4808b53cac4)
+![Screenshot 2025-04-23 104025](https://github.com/user-attachments/assets/7fab00ab-7413-41f8-9082-51e582593bc9)
 
 
 7.click on cntrl+S , automaticall C program will be generated 
 
-![Screenshot 2025-03-11 134709](https://github.com/user-attachments/assets/70b83b79-1569-4f14-99d5-e2adbb4e692d)
+![Screenshot 2025-04-23 104043](https://github.com/user-attachments/assets/564ce4ac-ea51-4880-9ac8-fb2e4135fccb)
 
 8. edit the program and as per required
    
